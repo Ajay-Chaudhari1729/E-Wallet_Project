@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ewellet/ewellet.iml" filepath="$PROJECT_DIR$/ewellet/ewellet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewellet/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/ewellet/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewellet/transaction-service/transaction-service.iml" filepath="$PROJECT_DIR$/ewellet/transaction-service/transaction-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewellet/user-service/user-service.iml" filepath="$PROJECT_DIR$/ewellet/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewellet/wallet-service/wallet-service.iml" filepath="$PROJECT_DIR$/ewellet/wallet-service/wallet-service.iml" />
+    </modules>
+  </component>
+</project>
